@@ -1,0 +1,19 @@
+{
+  "name": "hexlet-js",
+  "version": "8.19.2",
+  "description": "study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/FasTrss/hexlet-js.git"
+  },
+  "author": "FasTrss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FasTrss/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/FasTrss/hexlet-js#readme"
+}
