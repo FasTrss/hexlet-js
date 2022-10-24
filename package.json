@@ -1,6 +1,7 @@
 {
   "name": "hexlet-js",
   "version": "8.19.2",
+  "type": "module",
   "description": "study",
   "main": "index.js",
   "scripts": {
